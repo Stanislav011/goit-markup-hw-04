@@ -407,11 +407,12 @@ margin-bottom: 8px;
 
 }
 
-.inst-link:hover,
 .inst-link:focus {
-    background-color:#404bbf;
+    background-color: #404bbf;
 }
-
+.inst-link:hover {
+    background-color: #404bbf;
+}
 .icons-svg {
     fill: #f4f4fd;
 }
