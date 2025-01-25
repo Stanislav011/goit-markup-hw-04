@@ -93,11 +93,10 @@ color: #4d5ae5;
 
 
 .container {
-    max-width: 1158px;
+    width: 1158px;
     padding: 0 15px;
     margin: 0 auto;
 }
-
 
 .service-list {
     display: flex;
@@ -259,6 +258,9 @@ color: #434455;
     padding: 120px 0;
 }
 
+
+
+
 .portfolio-list {
     display: flex;
     flex-wrap: wrap;
@@ -289,9 +291,19 @@ color: #434455;
 }
 
 
-.container-three {
+.container-people {
     padding: 32px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
+
+
+.container-icons {
+    width: 232px;
+    height: 40px;
+}
+
 
 
 .team-title {
@@ -372,10 +384,6 @@ margin-bottom: 8px;
     display: flex;
     justify-content: center;
     gap: 24px;
-}
-
-.container-three {
-    padding: 32px 0;
 }
 
 
