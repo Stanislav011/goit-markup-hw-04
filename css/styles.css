@@ -407,7 +407,7 @@ margin-bottom: 8px;
 
 }
 
-.inst-link:hover
+.inst-link:hover,
 .inst-link:focus {
     background-color:#404bbf;
 }
