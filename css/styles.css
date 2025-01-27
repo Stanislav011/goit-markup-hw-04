@@ -536,8 +536,13 @@ img {
     letter-spacing: 0 0.2em;
     color: #FFFFFF;
     margin-bottom: 16px;
-
 }
+
+.container-all {
+    
+} 
+
+
 
 .last-ul {
     display: flex;
