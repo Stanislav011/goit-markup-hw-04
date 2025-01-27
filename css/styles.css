@@ -57,6 +57,12 @@ a {
     position: relative;
 }
 
+.container-title {
+    padding: 0 15px;
+    margin: 0 auto;
+    align-items: center;
+}
+
 
 .nav-link.current::after {
     content: "";
@@ -380,8 +386,9 @@ margin-bottom: 8px;
     transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.portfolio-text:hover .overlay {
+.portfolio-text:hover {
     transform: translateY(0%);
+
 }
 
 .container-portfolio {
@@ -509,7 +516,7 @@ img {
 }
 
 .container-last {
-
+    display: flex;
     align-items: baseline;
 
 }
