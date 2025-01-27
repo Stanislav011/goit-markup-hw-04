@@ -518,7 +518,6 @@ img {
 .container-last {
     display: flex;
     align-items: baseline;
-
 }
 
 .last-text {
@@ -547,6 +546,8 @@ img {
 
 .footer-wrapper {
     display: flex;
+    margin-right: 120px;
+    
 }
 
 .last-link {
