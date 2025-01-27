@@ -387,7 +387,7 @@ margin-bottom: 8px;
 }
 
 
-.transform:hover {
+.portfolio-item:hover .portfolio-text {
     transform: translateY(0%);
 
 }
