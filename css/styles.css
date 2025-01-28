@@ -531,7 +531,7 @@ img {
 }
 
 .container-all {
-    margin-right: 120px 
+    margin-right: 120px;
 } 
 
 
@@ -546,9 +546,7 @@ img {
 }
 
 .footer-wrapper {
-    display: flex;
     margin-right: 120px;
-    
 }
 
 .last-link {
